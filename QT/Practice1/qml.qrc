@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/arrow.png</file>
+        <file>Images/arrow_pressed.png</file>
+        <file>Contents/Button.qml</file>
+        <file>Contents/Joystick.qml</file>
+        <file>Images/background.png</file>
+        <file>Images/finger.png</file>
+        <file>Navigator.qml</file>
+        <file>Images/direction_gyro.png</file>
+    </qresource>
+</RCC>
